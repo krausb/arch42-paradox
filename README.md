@@ -5,7 +5,7 @@ Welcome to streamarchitect.io arch42 paradox template!
 This project utilizes Paradox to provide the capability to bring architecture documentation as code.
 
 Paradox is a Markdown documentation tool for software projects.
-The GitHub repo is [lightbend/paradox][repo].
+The GitHub repo is [lightbend/paradox](https://github.com/lightbend/paradox).
 
 ## Template contribution policy ##
 
